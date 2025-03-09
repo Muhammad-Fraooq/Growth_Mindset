@@ -3,6 +3,8 @@ import random
 from datetime import datetime
 import pandas as pd
 
+st.set_page_config(page_title="Growth Mindset Companion", page_icon=" 🌟", layout="wide")
+
 # Custom CSS for unique styling
 st.markdown("""
     <style>
